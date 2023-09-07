@@ -10,13 +10,7 @@
 # Kaynaklar
 Api : https://developer.themoviedb.org/reference/changes-movie-list
 
-# Yapılacaklar
-
-Redux kurulumunu
-Kullanıcı anasayfaya gelince:
-Popüler film verini çek > store'a aktar
-Rastgele popüler bir filmi seç Hero.jsx de ekrana bas
-Filmlerin kategori verisini çek > store'a aktar
-Herbir kategori için ekrana o kategoriye ait filmleri listeleyecek bir bileşen MovieList.jsx bas
-bu bileşene listelenecek kategorinin isminin ve id'sini gönder
-gelen id'ye göre film verisini çek ve ekrana bas
+# Project Description
+It is a Netflix-like project made using various React libraries 
+that capture popular
+movies and their category information and transfer them to the store.
